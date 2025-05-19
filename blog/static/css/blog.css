@@ -1,0 +1,41 @@
+body {
+    padding-left: 15px;
+    font-family: 'Georgia', serif;
+    background: white;
+}
+
+h1 a {
+    color: #f1f0ed;
+    font-family: 'Lobster', cursive;
+    font-size: 50px;
+    text-decoration: none;
+}
+
+header {
+    background: #FCA205;
+    padding: 20px 15px;
+}
+
+.date {
+    color: #828282;
+    font-size: 14px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+.post {
+    margin-top: 20px;
+    padding: 20px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.post h2 {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.post p {
+    font-size: 16px;
+}
